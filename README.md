@@ -1,8 +1,9 @@
 - 👋 Hi, I’m @bennychiks
-- 👀 I’m interested in Web Development
-- 🌱 I’m currently learning JavaScript
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 Web Developer
+- 🌱 JavaScript Programmer
+- HTML & CSS Developer
+- 💞️ I’m looking to collaborate on Web Projects
+- 📫 How to reach me: +234 705 323 4191 | ireknchikpa22@gmail.com
 
 <!---
 bennychiks/bennychiks is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
