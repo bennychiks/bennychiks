@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @bennychiks
 - 👀 Web Developer
 - 🌱 JavaScript Programmer
+- PHP Developer
 - HTML & CSS Developer
 - 💞️ I’m looking to collaborate on Web Projects
 - 📫 How to reach me: +234 705 323 4191 | ireknchikpa22@gmail.com
